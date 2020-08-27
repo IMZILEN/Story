@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 in master chap 2 in master chap 2 in master chap 2 in master chap 2 in master chap 2 in master chap 2 in master chap 2 
+=======
+chap2 chap2 chap2 chap2 chap2 chap2 chap2 chap2 chap2 chap2 
+>>>>>>> chapt2test
