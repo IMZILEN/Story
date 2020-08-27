@@ -1,1 +1,6 @@
 chap2 chap2 chap2 chap2 chap2 chap2 chap2 chap2 chap2 chap2 
+<<<<<<< HEAD
+=======
+
+lskdflskmfal;kmgf
+>>>>>>> chapt2test
